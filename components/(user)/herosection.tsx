@@ -18,7 +18,7 @@ export default function HeroSection() {
       <div className="relative w-full md:w-1/2 min-h-[300px] md:min-h-screen">
         <Image
           src="/public1.jpg"
-          alt="Background 2"
+          alt="Background "
           fill
           className="object-contain"
           priority
